@@ -84,4 +84,6 @@ blocks:
       alt: Netlify CMS configuration with Henlo
 seo:
   ogimage: /img/henlo-cover.png
+  title: Title
+  description: Meta
 ---
