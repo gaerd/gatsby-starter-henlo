@@ -7,7 +7,7 @@ permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    title: Henlo.
+    title: North DC starter
     content: |-
       ## The most advanced starter for Gatsby & Netlify CMS.
 
