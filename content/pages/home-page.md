@@ -7,7 +7,7 @@ permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    title: North DC starter
+    title: North starter
     content: |-
       ## The most advanced starter for Gatsby & Netlify CMS.
 
@@ -18,7 +18,7 @@ blocks:
     variant: centered
     buttons:
       - button:
-          variant: default
+          variant: button
           content: Documentation
           url: https://github.com/clean-commit/gatsby-starter-henlo
   - type: perks
